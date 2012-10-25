@@ -139,7 +139,7 @@
       <point x="737" y="170" type="line"/>
       <point x="738" y="170" type="line"/>
       <point x="738" y="169" type="line"/>
-      <point x="738" y="167" type="line" smooth="yes"/>
+      <point x="738" y="167" type="line"/>
       <point x="737" y="166" type="line"/>
       <point x="737" y="17" type="line"/>
       <point x="737" y="16" type="line" smooth="yes"/>
