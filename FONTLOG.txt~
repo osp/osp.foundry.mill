@@ -1,19 +1,13 @@
-dessinée en mars 2012
+FONTLOG for Mill
+----------------
+This file provides detailed information on the Mill font software.
+This information should be distributed along with the Mill fonts and any derivative works.
 
-Dans le cadre de l'élaboration d'un de mes projets de mobilier découpé en CNC à constuire soi-même, je souhaite placer des indications faisant office de plan sont directement gravées sur les pièces du meuble. 
 
-cf http://www.mathieu-g.be/fr/2012/09/autour-et-sur-le-trait/
-
-Une recherche rapide infructueuse de fonte libre "spécialisée" gravure m'a convaincu de faire une police de caractère dessinée par son squelette. 
-
-Il s'agit d'une fonte modulaire dessinée dans Inkscape puis exportée vers fontforge. Surprise au moment de générer le premier ttf, Fontforge ferme les contours ouverts. Il n'est donc pas possible d'utiliser la fonte comme telle. Un deuxième export depuis Inkscape avec cette fois un contour fin a permis de générer une police utilisable à l'écran, mais pas optimale. Pour les besoins de la gravure en machine, la fonte squelette est indispensable puisque le tracé représente le chemin de passage de la fraise, sans vraiment tenir compte du diamètre de l'outil. 
-
-Question ouverte, comment générer une fonte de ce type qui contiennent des contours ouverts?
-
-------------------
-
-Drawn in march 2012
-see: http://www.mathieu-g.be/fr/2012/09/autour-et-sur-le-trait/
+Basic Font Information
+----------------------
+Drawn in march 2012.
+See: http://www.mathieu-g.be/fr/2012/09/autour-et-sur-le-trait/
 
 During the elaboration of one of my project consisting in do-it-yourself cut up furniture in CNC, I wished to include building instruction directly in the wood.
 
@@ -22,3 +16,32 @@ A rapid and unsuccesful search for a free font “specialised” for engraving c
 It consist in a modular font, drawn in Inkscape, then exported to FontForge. Surprise, when exporting the ttf, FontForge closes the open paths. So it's not possible to use the font this way. A second export since Inkscape, this time with a thin stroke, allowed to generate a font usable for screen, but not optimal. For the purpose of the engraving machine, the stroke font is essential since the plot represents the millreamer pathway, without really taking into account the diameter of the tool.
 
 Open question, how to generate a font like this, able to contain open path? Or, that can stay in a skeleton state?
+
+
+Information for Contributors
+----------------------------
+Copyright (C) 2012 Mathieu Gabiot & OSP
+http://ospublish.constantvzw.org.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+
+Acknowledgements
+-------------------------
+If you make modifications be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is sorted by last name in alphabetical
+order.)
+
+N: Mathieu Gabiot
+E: contact@mathieu-g.be 
+W: http://www.mathieu-g.be/
+
+N: Élise Duverdier
+E: eliseduverdier@gmail.com
+W: http://elise.duverdier.free.fr
+D: Added collection of arrows.
